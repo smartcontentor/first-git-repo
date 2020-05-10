@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="utf8">
-    <title>Hello World</title>
+    <title>Text Document</title>
   </head>
   <body>
     <p>
